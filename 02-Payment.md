@@ -13,8 +13,8 @@ last third when I actually push the work I've done to your production server
 (i.e. "made it live"). I do my best to be accommodating, but please understand
 that I am very serious about payment (as I'm sure you are too).
 
-I accept payment by check or through Paypal (don't worry&mdash;I'll eat the
-cost).
+Unless we arrange otherwise, I'd like to be paid by check, or cash if you're
+local and want to do it that way.
 
 ###2.02 Refunds and Payment Edge-Cases###
 
@@ -29,9 +29,11 @@ happily do the job you pay me to do.
 
 If this happens, I'm confident that we can work out some sort of deal by which
 I get paid for a portion of the work completed, and you receive the portion of
-my work that you paid for. Or, perhaps, we both just decide to call it even. I will under no circumstances release the source
+my work that you paid for. Or, perhaps, we both just decide to call it even. 
+
+I will under no circumstances release the source
 code of my work to you, the client, without receiving some sort of
-compensation. Neither of us is unreasonable, so, again, be nice to me and I'll
+compensation. To me, this just makes sense; you don't get the goods without payment. Neither of us is unreasonable, so, again, be nice to me and I'll
 do everything I can to make sure you are a happy client.
 
 There is one exception, however: time billed as "Project Management" (i.e. client meetings and phone calls, preparing documents, communicating via online tools) is non-refundable. If we both agree to part ways, for whatever reason, you must still pay me for project management time. Sorry, but I've been burned in the past by clients who spend a lot of time planning only to pull the plug at the last minute. You know the type.

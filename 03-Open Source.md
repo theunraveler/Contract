@@ -23,5 +23,12 @@ I won't be giving out any data that is sensitive to your company/business
 the functionality of the thing I built for you and, if possible, making it more
 broad so that it's not so specific to your business model or industry. 
 
+If I am able to and choose to do this, you can count on three things. Firstly,
+I will notify you that I am doing so; secondly, I will give you attribution in
+some capacity for having financed the project in part; and thirdly, I will,
+unless we arrange otherwise, do all abstracting and releasing on my own time.
+Open source is something I believe in and I do not expect you to foot the bill
+if that's not your thing.
+
 Most likely, this will not affect you whatsoever. But if you have any questions
 about open source, your project, or my intentions, feel free to ask.
