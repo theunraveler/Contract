@@ -1,16 +1,17 @@
 #!/usr/bin/env ruby
 
-system "rm contract.pdf"
+system "rm contract.pdf" if File.exists?("./contract.pdf")
+system "mkdir html"
 
 files = String.new
 
-Dir.new(".").each do |file|
+Dir.new("./pages").each do |file|
   if file.include? ".md"
-    system "markdown '#{file}' > 'html/#{file}.html'"
+    system "markdown 'pages/#{file}' > 'html/#{file}.html'"
     files << "'html/#{file}.html' " unless file == '00-Title Page.md'
   end
 end
 
 system "htmldoc --book --titlefile 'html/00-Title Page.md.html' -f contract.pdf #{files}"
 
-system "rm html/*.html"
+system "rm -rf html"
