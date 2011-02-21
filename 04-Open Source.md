@@ -1,6 +1,6 @@
-##Open Source##
+#Open Source#
 
-###3.01 What is Meant by Open Source###
+##3.01 What is Meant by Open Source##
 
 The discussion about Open Source may have little bearing on your life if you
 are not a developer; it tends to be a bit technical, so I'll try to keep the language plain and the points relevant to our work together.
@@ -13,7 +13,7 @@ community, and the way that most developers are able to do that is by
 abstracting work that clients pay them to do so that the work is useful to
 other people.
 
-###3.02 What that Means for Your Project###
+##3.02 What that Means for Your Project##
 
 Alright, the previous section was a bit vague, but here's what it comes down
 to. While you will own the source code for whatever I build for you, I reserve

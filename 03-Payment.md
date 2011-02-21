@@ -1,6 +1,6 @@
-##Payment##
+#Payment#
 
-###2.01 How Payment Works###
+##2.01 How Payment Works##
 
 Once we reach an agreeable scope and cost thereof, the next issue to discuss is
 payment. It's pretty simple, actually, and my reasoning behind this is actually
@@ -16,7 +16,7 @@ that I am very serious about payment (as I'm sure you are too).
 Unless we arrange otherwise, I'd like to be paid by check, or cash if you're
 local and want to do it that way.
 
-###2.02 Refunds and Payment Edge-Cases###
+##2.02 Refunds and Payment Edge-Cases##
 
 Both parties (me, the developer, and you, the client) may, at any point in the
 term of the project, withdraw our involvement for any reason. This

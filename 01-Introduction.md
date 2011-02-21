@@ -1,8 +1,11 @@
-Hi! I'm excited to be doing business together! I'm a good developer; my work is
+#Introduction#
+
+Hi! I'm excited to be doing business together! If I weren't so adamantly
+against wasting champagne, I'd say let's smash a bottle to commemorate the maiden voyage of our working together. I'm a good developer; my work is
 professional, my rates are reasonable, and my demeanor is friendly. I am
 certain you will be a good client as well.
 
-I can read and write a couple different languages, and legalese is not one of
+I can read and write a couple different languages, but legalese is not one of
 them. I'm sure you are in the same boat. And lawyers are really expensive. So
 my purpose behind writing this contract is so that you, the client, and I, the
 developer, can communicate our expectations and requirements in plain language,
