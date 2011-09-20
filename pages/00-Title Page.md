@@ -1,5 +1,5 @@
-![Born To Raise Design logo](../images/logo.png)
+Contract
+========
 
-##Born To Raise Design##
-###Official Contract###
-
+work by Jake Bell for
+effective

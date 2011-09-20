@@ -1,6 +1,8 @@
-#Payment#
+4. Payment
+==========
 
-##2.01 How Payment Works##
+4.01 How Payment Works
+----------------------
 
 Once we reach an agreeable scope and cost thereof, the next issue to discuss is
 payment. It's pretty simple, actually, and my reasoning behind this is actually
@@ -9,14 +11,14 @@ both to minimize the risk for myself, the developer, and to give you, the client
 You, the client, will pay me at three (3) different points. Firstly, I'll need
 one-third of the total cost upfront. Then, I'll need the second third after
 I show you the work I've done and you've approved it. Finally, I'll need the
-last third when I actually push the work I've done to your production server
-(i.e. "made it live"). I do my best to be accommodating, but please understand
+last third when I actually turn the code over to you (i.e. "made it live", sent it to you in an email, etc.). I do my best to be accommodating, but please understand
 that I am very serious about payment (as I'm sure you are too).
 
 Unless we arrange otherwise, I'd like to be paid by check, or cash if you're
 local and want to do it that way.
 
-##2.02 Refunds and Payment Edge-Cases##
+4.02 Refunds and Payment Edge-Cases
+-----------------------------------
 
 Both parties (me, the developer, and you, the client) may, at any point in the
 term of the project, withdraw our involvement for any reason. This
@@ -37,3 +39,13 @@ compensation. To me, this just makes sense; you don't get the goods without paym
 do everything I can to make sure you are a happy client.
 
 There is one exception, however: time billed as "Project Management" (i.e. client meetings and phone calls, preparing documents, communicating via online tools) is non-refundable. If we both agree to part ways, for whatever reason, you must still pay me for project management time. Sorry, but I've been burned in the past by clients who spend a lot of time planning only to pull the plug at the last minute. You know the type.
+
+4.03 Legal Stuff
+----------------
+
+As I mentioned before, I am very serious about payment. It is how I am able to
+continue doing what I love to do for a living. (Hopefully) without sounding
+negative, if you, the client, refuse to pay me for whatever reason (assuming
+that I have completed the services as scoped), I will take legal action to
+ensure that I am paid. If the case is decided in my favor, you agree to
+reimburse me for an legal fees I accrue in the process.
