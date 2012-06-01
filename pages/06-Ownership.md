@@ -4,12 +4,12 @@
 5.01 Who owns the code after the project?
 -----------------------------------------
 
-With regard to static assets (images and copy), you do. Regarding code and functionality, I do.
+With regard to static assets (images, copy, purchased themes, etc), you do. Regarding code and functionality, I do.
 
 Your payment for the work I do is actually payment to license the code that
 I write for use on the site specified at the time of our agreement (unless
 I expressly grant the permission to reuse the code on other sites, or any
-license I release the code under grant suitable permissions).
+license I release the code under grants suitable permissions).
 
 If you would like to make other arrangements, I am willing to negotiate.
 

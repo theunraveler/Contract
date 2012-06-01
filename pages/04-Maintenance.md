@@ -20,4 +20,5 @@ Regarding bugfixes:
 
 I cannot be held legally responsible for lost sales, profits, or conversions
 that you incur due to a bug in the code I write. Unfortunately, it is not
-feasible for me to offer this sort of insurance.
+feasible for me to offer this sort of insurance, though I will do my best to resolve
+the bug as quickly as possible so that you do not incur further losses.

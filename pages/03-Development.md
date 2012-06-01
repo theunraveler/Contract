@@ -9,7 +9,7 @@ This is the fun part.
 1. I only work on code that is under version control. I have no preference
    regarding what system you use for version control, but there must be one. If
    there is not, I will set up a Git repository for you and bill you for the
-   2 hours it will take.
+   0.5 hours it will take.
 2. I will not do work on your servers. This is sort of a no-brainer; if
    a client stiffs me on payment, and I did all of my work on their servers,
    they now have all of my work, and I have none of my money. That's bad. So,

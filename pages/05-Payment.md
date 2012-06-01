@@ -48,4 +48,4 @@ continue doing what I love to do for a living. (Hopefully) without sounding
 negative, if you, the client, refuse to pay me for whatever reason (assuming
 that I have completed the services as scoped), I will take legal action to
 ensure that I am paid. If the case is decided in my favor, you agree to
-reimburse me for an legal fees I accrue in the process.
+reimburse me for any legal fees I accrue in the process.
