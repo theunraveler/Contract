@@ -11,6 +11,13 @@ I write for use on the site specified at the time of our agreement (unless
 I expressly grant the permission to reuse the code on other sites, or any
 license I release the code under grants suitable permissions).
 
+The practical implications of this are often negligible; it is mostly to
+safeguard against my code being used to create numerous instances of a site
+I was paid to build once. You are still free to change the code to accommodate
+your needs over time, and I do not
+expect to collect ongoing royalties from the use of the code that we agree to
+at the start of the project.
+
 If you would like to make other arrangements, I am willing to negotiate.
 
 5.02 Implications for Open Source Contribution
@@ -29,14 +36,14 @@ the right to abstract it out and release it to the community. Don't worry:
 I won't be giving out any data that is sensitive to your company/business
 (passwords, payment information, imagery specific to your business, company secrets, etc.). Rather, I'll be taking
 the functionality of the thing I built for you and, if possible, making it more
-broad so that it's not so specific to your business model or industry. 
+broad so that it's not so specific to your business model or industry.
 
-If I am able to and choose to do this, you can count on three things. Firstly,
-I will notify you that I am doing so; secondly, I will give you attribution in
-some capacity for having financed the project in part; and thirdly, I will,
-unless we arrange otherwise, do all abstracting and releasing on my own time.
-Open source is something I believe in and I do not expect you to foot the bill
-if that's not your thing.
+If I am able to and choose to do this, you can count on the following things:
+
+* I will notify you that I am doing so
+* I will give you attribution in some capacity for having financed the project in part
+* I will, unless we arrange otherwise, do all abstracting and releasing on my own time. Open source is something I believe in and I do not expect you to foot the bill if that's not your thing.
+* I will not open source anything that this fundamental to or competes with the core of your business model. Most often, it would be some small part of the application that is not related to its main functionality.
 
 Most likely, this will not affect you whatsoever. But if you have any questions
 about open source, your project, or my intentions, feel free to ask.

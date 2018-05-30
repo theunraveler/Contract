@@ -31,7 +31,7 @@ happily do the job you pay me to do.
 
 If this happens, I'm confident that we can work out some sort of deal by which
 I get paid for a portion of the work completed, and you receive the portion of
-my work that you paid for. Or, perhaps, we both just decide to call it even. 
+my work that you paid for. Or, perhaps, we both just decide to call it even.
 
 I will under no circumstances release the source
 code of my work to you, the client, without receiving some sort of
