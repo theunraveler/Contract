@@ -1,8 +1,6 @@
-3. Maintenance
-==============
+# 3. Maintenance
 
-3.01 Bugfixing and Other Issues
--------------------------------
+## 3.01 Bugfixing and Other Issues
 
 Unfortunately, bugs happen in software development. As much as I could promise
 that my code will be bug-free, the truth of the matter is that all code has
@@ -15,8 +13,7 @@ Regarding bugfixes:
 * I assume no responsibility for bugs that are not due to the code I write. I am, therefore, not obligated to fix said bugs. However, if the bug is determined to be an issue in the framework used (Drupal, etc), I will fix it at my normal hourly rate if we make such an agreement.
 * Bugs are not the same as changes to the scope.
 
-3.02 Legal Issues
------------------
+## 3.02 Legal Issues
 
 I cannot be held legally responsible for lost sales, profits, or conversions
 that you incur due to a bug in the code I write. Unfortunately, it is not

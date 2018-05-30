@@ -1,8 +1,6 @@
-5. Content and Code Ownership
-=============================
+# 5. Content and Code Ownership
 
-5.01 Who owns the code after the project?
------------------------------------------
+## 5.01 Who owns the code after the project?
 
 With regard to static assets (images, copy, purchased themes, etc), you do. Regarding code and functionality, I do.
 
@@ -20,8 +18,7 @@ at the start of the project.
 
 If you would like to make other arrangements, I am willing to negotiate.
 
-5.02 Implications for Open Source Contribution
-----------------------------------------------
+## 5.02 Implications for Open Source Contribution
 
 I am very committed to the ideals of the Open Source movement. By working with
 me, you are already receiving, for no additional charge, the benefits of other

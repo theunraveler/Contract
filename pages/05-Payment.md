@@ -1,8 +1,6 @@
-4. Payment
-==========
+# 4. Payment
 
-4.01 How Payment Works
-----------------------
+## 4.01 How Payment Works
 
 Once we reach an agreeable scope and cost thereof, the next issue to discuss is
 payment. It's pretty simple, actually, and my reasoning behind this is actually
@@ -17,8 +15,7 @@ that I am very serious about payment (as I'm sure you are too).
 Unless we arrange otherwise, I'd like to be paid by check, or cash if you're
 local and want to do it that way.
 
-4.02 Refunds and Payment Edge-Cases
------------------------------------
+## 4.02 Refunds and Payment Edge-Cases
 
 Both parties (me, the developer, and you, the client) may, at any point in the
 term of the project, withdraw our involvement for any reason. This
@@ -40,8 +37,7 @@ do everything I can to make sure you are a happy client.
 
 There is one exception, however: time billed as "Project Management" (i.e. client meetings and phone calls, preparing documents, communicating via online tools) is non-refundable. If we both agree to part ways, for whatever reason, you must still pay me for project management time. Sorry, but I've been burned in the past by clients who spend a lot of time planning only to pull the plug at the last minute. You know the type.
 
-4.03 Legal Stuff
-----------------
+## 4.03 Legal Stuff
 
 As I mentioned before, I am very serious about payment. It is how I am able to
 continue doing what I love to do for a living. (Hopefully) without sounding

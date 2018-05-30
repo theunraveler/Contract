@@ -1,10 +1,8 @@
-2. Development
-==============
+# 2. Development
 
 This is the fun part.
 
-2.01 Terms of Development
--------------------------
+## 2.01 Terms of Development
 
 1. I only work on code that is under version control. I have no preference
    regarding what system you use for version control, but there must be one. If
@@ -22,8 +20,7 @@ This is the fun part.
    of each iteration.
 4. All work will be built and approved based on the scope we agree upon.
 
-2.02 The Code
--------------
+## 2.02 The Code
 
 1. I really prefer test-driven development, and you should too. While it can
    add a bit of cost in the short term, it really pays off as your site grows
